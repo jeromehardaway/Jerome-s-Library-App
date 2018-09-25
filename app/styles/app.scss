@@ -1,7 +1,12 @@
 @import "bootstrap";
+@import "ember-bootstrap/bootstrap";
 
 body {
 	padding-top: 20px;
+	background-color: #e4f1fe;
 }
 
-@import "ember-bootstrap/bootstrap";
+.navbar {
+	background-color: #81cfe0;
+}
+
